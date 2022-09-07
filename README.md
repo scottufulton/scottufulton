@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 </p>
 
 - 👯 I’m looking to collaborate on **full stack development position**
-- 🤔 I’m looking for help with **RubyRuby on Rails**
+- 🤔 I’m looking for help with **Ruby** and **Ruby on Rails**
 - 💬 Ask me about **Python/Django, React, API, DevOps**,
 - 📫 How to reach me: <a href="mailto:ericufulton@gmail.com">ericufulton@gmail.com</a>
